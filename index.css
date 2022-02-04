@@ -1,0 +1,18 @@
+.heading{
+    color: red;
+}
+#flyburger {
+   max-height: 50%;
+   max-width: auto;
+}
+#quote {
+    margin-top: 200px;
+}
+#btn {
+    margin-top: 80px;
+    background-color: orange;
+    color: white;
+    border-radius: 20%;
+    border: none;
+    
+}
