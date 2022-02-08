@@ -6,7 +6,9 @@ It simoly advertises the burgers to customers so that they can purchase.
 ##### By Francis Mwangi Maina
 ### Webpage Screenshots
 <img width="1440" alt="Screenshot 2022-01-30 at 21 59 09" src="https://github.com/Mainafrancis/Hamburger/blob/Mwas/images/screen.png">
+
 ## Table of Content
+
 + [Description](#description)
 + [Installation Requirement](#Requirements)
 + [Technology Used](#technology-used)
